@@ -4,7 +4,7 @@
 아래 cout과 같이 정의된 함수를 사용하기 위해 
 */
 using namespace std;
-// iostream에 기재된 함수를 사용하기 위해 사용하고자.
+// iostream에 기재된 함수를 사용하기 위해 사용
 // 세미콜론(;)은 종결자로써 활용된다.
 
 int main(void)
